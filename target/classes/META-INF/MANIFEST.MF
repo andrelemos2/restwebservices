@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: restwebservice
+Implementation-Version: 0.1.0
+Built-By: andreasl
+Implementation-Vendor-Id: br.com.devplan.springframework
+Build-Jdk: 1.8.0_66
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
